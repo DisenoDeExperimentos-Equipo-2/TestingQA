@@ -1,0 +1,2 @@
+En conclusión los servicios del ejercicio 4 no se cargan correctamente debido a un error de sintaxis en la línea 17 del código. Esto ocurre porque no se declaró “Return” antes de la fórmula de conversión 
+y esto es necesario para que los cálculos se devuelvan correctamente. Por consiguiente, el equipo QA no aprueba la validación del código y da el pase a  desarrollo para la resolución del problema.
