@@ -1,1 +1,3 @@
+Conclusión
 
+Pudimos observar un error de compilación en la linea 29, en la función DameCita(). Al realizar la validación nos marca un error de sintaxis pero al observarlo y analizarlo podemos concluir que faltan los corchetes {} dentro de la función para que el programa compile correctamente.
