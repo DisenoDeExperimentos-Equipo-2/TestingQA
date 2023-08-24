@@ -1,0 +1,4 @@
+En el código del ejercicio 2, el equipo determina que el código no pasa el proceso de verificación puesto que hay un error en el diseño de la aplicación.
+Específicamente, en la línea 20 se tiene la cadena de palabras “RE” que no es parte del requisito de la aplicación.
+En la validación del ejercicio 2, al compilar se observa un error en el servicio que se intenta levantar.
+Como se revisó en el diseño, efectivamente existe un error en la línea 20 del código que impide confiar en la aplicación desarrollada.
